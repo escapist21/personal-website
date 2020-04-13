@@ -1,7 +1,7 @@
 ---
 title: "Designing Telegram chatbot"
 date: 2020-04-12T21:06:00+01:00
-draft: true
+draft: false
 hideLastModified: false
 summary: "Part 2 of designing Telegram chatbots with Python, Github & Heroku"
 summaryImage: "images/bot_screenshot.jpeg"
